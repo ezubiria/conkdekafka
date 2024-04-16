@@ -3,7 +3,7 @@ title: Sobre mí
 feature_text: |
   ## Sobre mí
   *(o la imagen que me devuelve el espejo)*
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/images/SobreMi.jpg"
 excerpt: "(o la imagen que me devuelve el espejo)"
 ---
 
