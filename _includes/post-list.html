@@ -19,7 +19,7 @@
     <ul class="list  list--posts">
       {% for page in site.posts %}
       
-        <li class="item  item--post it" {% if page.feature_image %} style="background-image: url(https://ezubiria.github.io/conkdekafka/{{ page.feature_image }});"{% endif %}>
+        <li class="item  item--post it" {% if page.feature_image %} style="background-image: url({{ page.feature_image }});"{% endif %}>
           
           <article class="article  article--post art">
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
