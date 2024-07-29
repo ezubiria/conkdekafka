@@ -6,6 +6,7 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  font-family: 'Lato';
 }
 
 .container {
@@ -67,6 +68,7 @@ body {
   img {
     max-height: 5rem;
   }
+  margin-top: -8px;
 }
 
 .nav {
@@ -484,4 +486,18 @@ pre code {
 
 .art a{
   text-decoration: none;
+}
+
+.page-title{
+  color: #005368;
+  font-weight: 100;
+  font-size: 2rem;
+}
+.page-subtitle{
+  font-family: Lato, sans-serif;
+  color: #005368;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.125rem;
+  margin-left: .75rem;
 }
