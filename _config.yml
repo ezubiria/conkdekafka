@@ -106,14 +106,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos2/logo@16px.png'
-  32: '/assets/logos2/logo@32px.png'
-  96: '/assets/logos2/logo@96px.png'
-  120: '/assets/logos2/logo@120px.png'
-  144: '/assets/logos2/logo@144px.png'
-  180: '/assets/logos2/logo@180px.png'
-  512: '/assets/logos2/logo@512px.png'
-  1024: '/assets/logos2/logo@1024px.png'
+  16: '/assets/logos2/logo@16.png'
+  32: '/assets/logos2/logo@32.png'
+  96: '/assets/logos2/logo@96.png'
+  120: '/assets/logos2/logo@120.png'
+  144: '/assets/logos2/logo@144.png'
+  180: '/assets/logos2/logo@180.png'
+  512: '/assets/logos2/logo@512.png'
+  1024: '/assets/logos2/logo@1024.png'
 
 # 9. Site navigation
 navigation_header:
